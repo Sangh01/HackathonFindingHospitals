@@ -1,0 +1,41 @@
+Total hospital found: 10
+Clicked on hospital: Manipal Hospital Varthur Road (formerly Columbia Asia Hospital)
+Rating for Manipal Hospital Varthur Road (formerly Columbia Asia Hospital): 4.0, Open 24x7: true
+Read more info button for Manipal Hospital Varthur Road (formerly Columbia Asia Hospital) is visible: true
+Name of hospital: Manipal Hospital Varthur Road (formerly Columbia Asia Hospital)
+Clicked on hospital: Manipal Hospitals
+Rating for Manipal Hospitals: 4.5, Open 24x7: true
+Read more info button for Manipal Hospitals is visible: true
+Name of hospital: Manipal Hospitals
+Clicked on hospital: Koshys Hospital
+Rating for Koshys Hospital: 4.0, Open 24x7: true
+Read more info button for Koshys Hospital is visible: true
+Name of hospital: Koshys Hospital
+Clicked on hospital: Motherhood Hospital
+Rating for Motherhood Hospital: 4.5, Open 24x7: true
+Read more info button for Motherhood Hospital is visible: true
+Name of hospital: Motherhood Hospital
+Clicked on hospital: Motherhood Hospital
+Rating for Motherhood Hospital: 4.5, Open 24x7: true
+Read more info button for Motherhood Hospital is visible: true
+Name of hospital: Motherhood Hospital
+Clicked on hospital: Apollo Cradle & Children’s Hospital
+Rating for Apollo Cradle & Children’s Hospital: 4.5, Open 24x7: true
+Read more info button for Apollo Cradle & Children’s Hospital is visible: true
+Name of hospital: Apollo Cradle & Children’s Hospital
+Clicked on hospital: Manipal Hospital
+Rating for Manipal Hospital: 3.5, Open 24x7: true
+Read more info button for Manipal Hospital is visible: true
+it is not contain
+Clicked on hospital: Manipal Hospital
+Rating for Manipal Hospital: 4.5, Open 24x7: false
+Read more info button for Manipal Hospital is visible: true
+it is not contain
+Clicked on hospital: Cloudnine Hospital - Old Airport Road
+Rating for Cloudnine Hospital - Old Airport Road: 4.5, Open 24x7: true
+Read more info button for Cloudnine Hospital - Old Airport Road is visible: true
+Name of hospital: Cloudnine Hospital - Old Airport Road
+Clicked on hospital: Sagar Hospitals
+Rating for Sagar Hospitals: 4.0, Open 24x7: false
+Read more info button for Sagar Hospitals is visible: true
+it is not contain

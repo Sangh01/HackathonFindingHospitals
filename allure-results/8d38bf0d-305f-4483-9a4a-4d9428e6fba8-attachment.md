@@ -1,0 +1,417 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e4]:
+  - generic [ref=e5]:
+    - link [ref=e6] [cursor=pointer]:
+      - /url: /
+    - generic [ref=e8] [cursor=pointer]:
+      - generic [ref=e9]: Help
+      - img "image" [ref=e12]
+  - generic [ref=e13]:
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - heading "Book Lab Tests Online" [level=1] [ref=e17]
+        - generic [ref=e21] [cursor=pointer]: Cart
+      - generic [ref=e22]:
+        - generic [ref=e24]:
+          - textbox "Select any city or locality" [ref=e29] [cursor=pointer]
+          - generic [ref=e30]: "|"
+          - textbox "Search for tests, packages & profiles" [ref=e33]
+        - generic [ref=e37]:
+          - generic:
+            - link "Call":
+              - /url: tel:+918045684087
+              - generic:
+                - img "Call"
+          - link "WhatsApp":
+            - /url: "#"
+            - generic:
+              - img "WhatsApp"
+    - generic [ref=e38]:
+      - generic [ref=e40]:
+        - generic [ref=e41]:
+          - heading "Top Booked Diagnostic Tests" [level=2] [ref=e42]
+          - generic [ref=e43]:
+            - img [ref=e44]
+            - generic [ref=e46]: Get reports within 24hrs
+        - generic [ref=e50]:
+          - generic [ref=e53] [cursor=pointer]:
+            - link "Thyroid Profile ₹500 Known as Thyroid Profile Total Blood" [ref=e54]:
+              - /url: /tests/thyroid-profile-total-blood/p?city=bangalore
+              - generic [ref=e55]:
+                - generic [ref=e56]: Thyroid Profile
+                - generic [ref=e57]: ₹500
+              - generic [ref=e58]: Known as Thyroid Profile Total Blood
+            - generic [ref=e61]: ADD TO CART
+          - generic [ref=e64] [cursor=pointer]:
+            - link "Complete Blood Count ₹300 Known as Complete Blood Count Automated Blood" [ref=e65]:
+              - /url: /tests/complete-blood-count-automated-blood/p?city=bangalore
+              - generic [ref=e66]:
+                - generic [ref=e67]: Complete Blood Count
+                - generic [ref=e68]: ₹300
+              - generic [ref=e69]: Known as Complete Blood Count Automated Blood
+            - generic [ref=e72]: ADD TO CART
+          - generic [ref=e75] [cursor=pointer]:
+            - link "Lipid Profile ₹434 Known as Lipid Profile Blood" [ref=e76]:
+              - /url: /tests/lipid-profile-blood/p?city=bangalore
+              - generic [ref=e77]:
+                - generic [ref=e78]: Lipid Profile
+                - generic [ref=e79]: ₹434
+              - generic [ref=e80]: Known as Lipid Profile Blood
+            - generic [ref=e83]: ADD TO CART
+          - generic [ref=e86] [cursor=pointer]:
+            - link "Liver Function Test ₹673 Known as Liver Function Tests Blood" [ref=e87]:
+              - /url: /tests/liver-function-tests-blood/p?city=bangalore
+              - generic [ref=e88]:
+                - generic [ref=e89]: Liver Function Test
+                - generic [ref=e90]: ₹673
+              - generic [ref=e91]: Known as Liver Function Tests Blood
+            - generic [ref=e94]: ADD TO CART
+          - generic [ref=e97] [cursor=pointer]:
+            - link "HbA1c ₹300 Known as Glycosylated Haemoglobin Blood" [ref=e98]:
+              - /url: /tests/glycosylated-haemoglobin-blood/p?city=bangalore
+              - generic [ref=e99]:
+                - generic [ref=e100]: HbA1c
+                - generic [ref=e101]: ₹300
+              - generic [ref=e102]: Known as Glycosylated Haemoglobin Blood
+            - generic [ref=e105]: ADD TO CART
+          - generic [ref=e108] [cursor=pointer]:
+            - link "Vitamin B 12 ₹490 Known as Vitamin B12 Conventional Blood" [ref=e109]:
+              - /url: /tests/vitamin-b12-conventional-blood/p?city=bangalore
+              - generic [ref=e110]:
+                - generic [ref=e111]: Vitamin B 12
+                - generic [ref=e112]: ₹490
+              - generic [ref=e113]: Known as Vitamin B12 Conventional Blood
+            - generic [ref=e116]: ADD TO CART
+          - generic [ref=e119] [cursor=pointer]:
+            - link [ref=e120]:
+              - /url: /tests/beta-hcg-automated-blood/p?city=bangalore
+              - generic [ref=e121]:
+                - generic [ref=e122]: Beta HCG
+                - generic [ref=e123]: ₹850
+              - generic [ref=e124]: Known as Beta Hcg Automated Blood
+            - generic [ref=e127]: ADD TO CART
+          - generic [ref=e130] [cursor=pointer]:
+            - link [ref=e131]:
+              - /url: /tests/glucose-fasting-blood/p?city=bangalore
+              - generic [ref=e132]:
+                - generic [ref=e133]: Fasting Blood Sugar
+                - generic [ref=e134]: ₹199
+              - generic [ref=e135]: Known as Glucose Fasting Blood
+            - generic [ref=e138]: ADD TO CART
+          - generic [ref=e141] [cursor=pointer]:
+            - link [ref=e142]:
+              - /url: /tests/vitamin-d-profile-blood/p?city=bangalore
+              - generic [ref=e143]:
+                - generic [ref=e144]: Vitamin D Profile
+                - generic [ref=e145]: ₹1000
+              - generic [ref=e146]: Known as Vitamin D Profile Blood
+            - generic [ref=e149]: ADD TO CART
+      - generic [ref=e154]:
+        - generic [ref=e155]: How it works?
+        - generic [ref=e156]:
+          - generic [ref=e159]: Book tests & packages
+          - generic [ref=e162]: Home sample collection
+          - generic [ref=e165]: Reports in practo app
+      - generic [ref=e166]:
+        - heading "Find Tests by Health Concern" [level=2] [ref=e167]
+        - generic [ref=e171]:
+          - link "Fever" [ref=e174] [cursor=pointer]:
+            - /url: /health-checkup-packages/fever-checkup
+            - generic [ref=e175]: Fever
+          - link "Diabetes" [ref=e178] [cursor=pointer]:
+            - /url: /health-checkup-packages/diabetes-checkup
+            - generic [ref=e179]: Diabetes
+          - link "Skin" [ref=e182] [cursor=pointer]:
+            - /url: /health-checkup-packages/skin-care-checkups
+            - generic [ref=e183]: Skin
+          - link "Kidney" [ref=e186] [cursor=pointer]:
+            - /url: /health-checkup-packages/kidney-urine-checkups
+            - generic [ref=e187]: Kidney
+          - link "Digestion" [ref=e190] [cursor=pointer]:
+            - /url: /health-checkup-packages/stomach-digestion-checkups
+            - generic [ref=e191]: Digestion
+          - link "Cancer" [ref=e194] [cursor=pointer]:
+            - /url: /health-checkup-packages/cancer-screening-health-checkup
+            - generic [ref=e195]: Cancer
+          - link [ref=e198] [cursor=pointer]:
+            - /url: /health-checkup-packages/bone-joints-checkups
+            - generic [ref=e199]: Bone
+          - link [ref=e202] [cursor=pointer]:
+            - /url: /health-checkup-packages/sexual-wellness-checkups
+            - generic [ref=e203]: Sexual Wellness
+      - generic [ref=e206]:
+        - heading "Recommended Vital Checkups" [level=2] [ref=e207]
+        - generic [ref=e211]:
+          - generic [ref=e215]:
+            - generic [ref=e216]:
+              - img "Lipid Profile"
+              - heading "Lipid Profile" [level=3] [ref=e217]:
+                - link "Lipid Profile" [ref=e218] [cursor=pointer]:
+                  - /url: /tests/lipid-profile-blood/p?city=bangalore
+            - generic [ref=e219]: LDL Cholesterol, HDL Cholesterol +3Tests
+            - link "Book" [ref=e221] [cursor=pointer]:
+              - /url: /tests/lipid-profile-blood/p?city=bangalore#addItem
+          - generic [ref=e225]:
+            - generic [ref=e226]:
+              - img "Liver Profile"
+              - heading "Liver Profile" [level=3] [ref=e227]:
+                - link "Liver Profile" [ref=e228] [cursor=pointer]:
+                  - /url: /tests/liver-function-tests-blood/p?city=bangalore
+            - generic [ref=e229]: Gamma Glutamyl Transferase, Total Bilirubin +3Tests
+            - link "Book" [ref=e231] [cursor=pointer]:
+              - /url: /tests/liver-function-tests-blood/p?city=bangalore#addItem
+          - generic [ref=e235]:
+            - generic [ref=e236]:
+              - img "Blood Sugar"
+              - heading "Blood Sugar" [level=3] [ref=e237]:
+                - link "Blood Sugar" [ref=e238] [cursor=pointer]:
+                  - /url: /tests/glycosylated-haemoglobin-blood/p?city=bangalore
+            - generic [ref=e239]: Hba1C, Fasting Blood Sugar +3Tests
+            - link "Book" [ref=e241] [cursor=pointer]:
+              - /url: /tests/glycosylated-haemoglobin-blood/p?city=bangalore#addItem
+          - generic [ref=e245]:
+            - heading [level=3] [ref=e247]:
+              - link [ref=e248] [cursor=pointer]:
+                - /url: /tests/thyroid-profile-total-blood/p?city=bangalore
+                - text: Thyroid Profile
+            - generic [ref=e249]: TSH, T3 +3Tests
+            - link [ref=e251] [cursor=pointer]:
+              - /url: /tests/thyroid-profile-total-blood/p?city=bangalore#addItem
+              - text: Book
+          - generic [ref=e255]:
+            - heading [level=3] [ref=e257]:
+              - link [ref=e258] [cursor=pointer]:
+                - /url: /tests/beta-hcg-automated-blood/p?city=bangalore
+                - text: Pregnancy Test
+            - generic [ref=e259]: Afp, Glucose Tolerance +3Tests
+            - link [ref=e261] [cursor=pointer]:
+              - /url: /tests/beta-hcg-automated-blood/p?city=bangalore#addItem
+              - text: Book
+      - generic [ref=e265]:
+        - generic [ref=e266]: Why Book With Us?
+        - generic [ref=e267]:
+          - generic [ref=e270]:
+            - generic [ref=e271]: FREE home
+            - generic [ref=e272]: sample collection
+          - generic [ref=e275]:
+            - generic [ref=e276]: E reports
+            - generic [ref=e277]: in 24 hrs
+          - generic [ref=e280]:
+            - generic [ref=e281]: Offers &
+            - generic [ref=e282]: affordable prices
+      - generic [ref=e284]:
+        - generic [ref=e285]: We do great
+        - generic [ref=e286]:
+          - generic [ref=e288]: 15 Million users every month
+          - generic [ref=e290]: Trusted by 2,00,000 healthcare professionals
+          - generic [ref=e292]: We serve in 9 cities
+      - generic [ref=e293]:
+        - heading "Thousands of Happy Customers" [level=2] [ref=e294]
+        - generic [ref=e297]:
+          - generic [ref=e298]: “Very professional phlebo. Excellent job in collecting the sample. No pain at all. Got my report also within 24 hours.
+          - generic [ref=e301]: Malathi Ganapathy
+    - generic [ref=e307]:
+      - generic [ref=e308]: Download the Practo app
+      - generic [ref=e309]: Your home for health is one tap away.
+      - generic [ref=e310]: Book appointments, Order health products, Consult with a doctor online, Book health checkups, store health records & read health tips.
+      - generic [ref=e311]:
+        - generic [ref=e312]: Send the link to download the app
+        - generic [ref=e313]:
+          - generic [ref=e314]:
+            - text: "+91"
+            - textbox "Enter phone number" [ref=e315]
+          - generic [ref=e316] [cursor=pointer]: Send app link
+      - generic [ref=e317]:
+        - link:
+          - /url: https://app.appsflyer.com/id953772015?pid=web&c=homepage
+    - generic [ref=e320]:
+      - paragraph [ref=e321]:
+        - text: Book
+        - strong [ref=e322]: Diagnostic tests
+        - text: near you with Practo Associate Labs, your online lab test service provider for diagnostic, medical tests and health checkup packages
+      - paragraph [ref=e323]:
+        - text: Get all the benefits of
+        - strong [ref=e324]: diagnostic centre
+        - text: and
+        - strong [ref=e325]: pathology labs
+        - text: right from the comfort of your home. With a phlebotomy team to ensure speedy home sample collection, and diagnostic services ranging from individual tests to complete health checkup packages for Men, Women, Senior Citizens & Corporates. Practo Associate Labs takes care of all your diagnostic needs.
+      - paragraph [ref=e326]:
+        - strong [ref=e327]: "Wide Selection of Tests:"
+        - text: Practo Associate Labs covers a wide array of tests like
+        - strong [ref=e328]: blood sugar tests, thyroid tests, pregnancy tests, allergy tests
+        - text: ", lipid profile, liver profile, platelet count, VDRL test, vitamin B12 deficiency test and more. Get details of all these tests such as blood test cost, when to take the tests, why it is required, who should take the test and what to do before taking the blood tests at home."
+      - paragraph [ref=e329]:
+        - strong [ref=e330]: "Sample Collection at Home:"
+        - text: Book blood tests online from your home and our expert team of Practo Associate Labs technicians will arrive at the pre-scheduled time to pick up your sample. Once you get a
+        - strong [ref=e331]: diagnostic test
+        - text: done, you will receive your reports online.
+      - paragraph [ref=e332]:
+        - strong [ref=e333]: "Digital Reports:"
+        - text: Get all your diagnostic reports emailed directly to you with detailed
+        - strong [ref=e334]: blood test
+        - text: reports & secure storage to easily access your medical records online.
+      - paragraph [ref=e335]:
+        - strong [ref=e336]: "Full Body Health Checkup:"
+        - text: Keep your health and well being in check with exclusive Health Checkup Packages like Men’s Health Package, Women’s Health Package, Vitamin Package, Health Package for Corporates, Diabetes Packages, Packages for Senior Citizens & more. Get full details of all tests available in a package when booking
+        - strong [ref=e337]: online pathology tests.
+      - paragraph [ref=e338]:
+        - strong [ref=e339]: "Practo Associate Labs provides services to the following cities:"
+        - text: Bangalore, Hyderabad, Chennai, Mumbai, Delhi, Pune, Kolkata, Navi Mumbai, Thane, Gurgaon, Noida, Ahmedabad, Chandigarh, Ghaziabad, Indore, Jaipur, Lucknow, Patna, Ernakulam, Bhubaneswar and Coimbatore.
+    - generic [ref=e340]:
+      - text: This site is protected by reCAPTCHA and the Google
+      - link "Privacy Policy" [ref=e341] [cursor=pointer]:
+        - /url: https://policies.google.com/privacy
+      - text: and
+      - link "Terms of Service" [ref=e342] [cursor=pointer]:
+        - /url: https://policies.google.com/terms
+      - text: apply.
+    - contentinfo [ref=e343]:
+      - generic [ref=e344]:
+        - list [ref=e345]:
+          - listitem [ref=e346]:
+            - heading "Practo" [level=6] [ref=e347]
+          - listitem [ref=e348]:
+            - link "About" [ref=e349] [cursor=pointer]:
+              - /url: https://www.practo.com/company/about
+          - listitem [ref=e350]:
+            - link "Blog" [ref=e351] [cursor=pointer]:
+              - /url: https://blog.practo.com/
+          - listitem [ref=e352]:
+            - link "Careers" [ref=e353] [cursor=pointer]:
+              - /url: https://www.practo.com/company/careers
+          - listitem [ref=e354]:
+            - link "Press" [ref=e355] [cursor=pointer]:
+              - /url: https://www.practo.com/company/press
+          - listitem [ref=e356]:
+            - link "Contact" [ref=e357] [cursor=pointer]:
+              - /url: https://www.practo.com/company/contact
+        - list [ref=e358]:
+          - listitem [ref=e359]:
+            - heading "For patients" [level=6] [ref=e360]
+          - listitem [ref=e361]:
+            - link "Ask free health questions" [ref=e362] [cursor=pointer]:
+              - /url: /consult/new_question?source=Footer-AskFreeQuestion
+          - listitem [ref=e363]:
+            - link "Search for doctors" [ref=e364] [cursor=pointer]:
+              - /url: /bangalore/doctors
+          - listitem [ref=e365]:
+            - link "Search for clinics" [ref=e366] [cursor=pointer]:
+              - /url: /bangalore/clinics
+          - listitem [ref=e367]:
+            - link "Search for hospitals" [ref=e368] [cursor=pointer]:
+              - /url: /bangalore/hospitals
+          - listitem [ref=e369]:
+            - link "Book Diagnostic Tests" [ref=e370] [cursor=pointer]:
+              - /url: /tests
+          - listitem [ref=e371]:
+            - link "Read health articles" [ref=e372] [cursor=pointer]:
+              - /url: /healthfeed
+          - listitem [ref=e373]:
+            - link "Read about medicines" [ref=e374] [cursor=pointer]:
+              - /url: /medicine-info
+          - listitem [ref=e375]:
+            - link "Consult a doctor" [ref=e376] [cursor=pointer]:
+              - /url: /consult?source=Footer-ConsultFeed
+          - listitem [ref=e377]:
+            - link "Order medicines" [ref=e378] [cursor=pointer]:
+              - /url: /order
+          - listitem [ref=e379]:
+            - link "Practo Drive" [ref=e380] [cursor=pointer]:
+              - /url: /drive
+          - listitem [ref=e381]:
+            - link "Health app" [ref=e382] [cursor=pointer]:
+              - /url: /health-app
+          - listitem [ref=e383]:
+            - link "Book Full Body Checkups" [ref=e384] [cursor=pointer]:
+              - /url: /health-checkup-packages/master
+          - listitem [ref=e385]:
+            - link "Practo Plus" [ref=e386] [cursor=pointer]:
+              - /url: /plus?utm_source=dx&utm_medium=web
+        - list [ref=e387]:
+          - listitem [ref=e388]:
+            - heading "For doctors" [level=6] [ref=e389]
+          - listitem [ref=e390]:
+            - link "Practo Consult" [ref=e391] [cursor=pointer]:
+              - /url: /for-doctors/consult
+          - listitem [ref=e392]:
+            - link "Practo Health Feed" [ref=e393] [cursor=pointer]:
+              - /url: /for-doctors/health-feed
+          - listitem [ref=e394]:
+            - link "Practo Profile" [ref=e395] [cursor=pointer]:
+              - /url: /for-doctors/profile
+          - listitem [ref=e396]:
+            - heading "For clinics" [level=6] [ref=e397]
+          - listitem [ref=e398]:
+            - link "Ray by Practo" [ref=e399] [cursor=pointer]:
+              - /url: /providers/clinics/ray
+          - listitem [ref=e400]:
+            - link "Practo Reach" [ref=e401] [cursor=pointer]:
+              - /url: /providers/clinics/reach
+          - listitem [ref=e402]:
+            - link "Ray Tab" [ref=e403] [cursor=pointer]:
+              - /url: /providers/clinics/ray#raytab
+          - listitem [ref=e404]:
+            - link "Practo Pro" [ref=e405] [cursor=pointer]:
+              - /url: /practo-pro-app
+        - list [ref=e406]:
+          - listitem [ref=e407]:
+            - heading "For hospitals" [level=6] [ref=e408]
+          - listitem [ref=e409]:
+            - link "Insta by Practo" [ref=e410] [cursor=pointer]:
+              - /url: /providers/hospitals/insta
+          - listitem [ref=e411]:
+            - link "Qikwell by Practo" [ref=e412] [cursor=pointer]:
+              - /url: /providers/hospitals/qikwell
+          - listitem [ref=e413]:
+            - link "Practo Profile" [ref=e414] [cursor=pointer]:
+              - /url: /providers/hospitals/profile
+          - listitem [ref=e415]:
+            - link "Practo Reach" [ref=e416] [cursor=pointer]:
+              - /url: /providers/hospitals/reach
+        - list [ref=e417]:
+          - listitem [ref=e418]:
+            - heading "More" [level=6] [ref=e419]
+          - listitem [ref=e420]:
+            - link "Help" [ref=e421] [cursor=pointer]:
+              - /url: https://help.practo.com/
+          - listitem [ref=e422]:
+            - link "Developers" [ref=e423] [cursor=pointer]:
+              - /url: https://developers.practo.com/
+          - listitem [ref=e424]:
+            - link "Privacy Policy" [ref=e425] [cursor=pointer]:
+              - /url: /company/privacy
+          - listitem [ref=e426]:
+            - link "Terms & Conditions" [ref=e427] [cursor=pointer]:
+              - /url: /company/terms
+          - listitem [ref=e428]:
+            - link "Subscribers" [ref=e429] [cursor=pointer]:
+              - /url: /company/subscribers
+          - listitem [ref=e430]:
+            - link "Healthcare directory" [ref=e431] [cursor=pointer]:
+              - /url: /sitemap
+          - listitem [ref=e432]:
+            - link "Practo Health Wiki" [ref=e433] [cursor=pointer]:
+              - /url: /health-wiki
+        - list [ref=e434]:
+          - listitem [ref=e435]:
+            - heading "Social" [level=6] [ref=e436]
+          - listitem [ref=e437]:
+            - link "Facebook" [ref=e438] [cursor=pointer]:
+              - /url: https://facebook.com/practo
+          - listitem [ref=e439]:
+            - link "Twitter" [ref=e440] [cursor=pointer]:
+              - /url: https://twitter.com/Practo
+          - listitem [ref=e441]:
+            - link "LinkedIn" [ref=e442] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/practo-technologies-pvt-ltd
+          - listitem [ref=e443]:
+            - link "Youtube" [ref=e444] [cursor=pointer]:
+              - /url: https://youtube.com/user/PractoSupport
+          - listitem [ref=e445]:
+            - link "Github" [ref=e446] [cursor=pointer]:
+              - /url: https://github.com/practo
+      - img "Practo" [ref=e448]
+      - generic [ref=e449]: Copyright © 2017, Practo. All rights reserved.
+```

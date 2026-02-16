@@ -1,0 +1,41 @@
+Total hospital found: 10
+Clicked on hospital: Soundarapandian Bone And Joint Hospital & Research Institute
+Rating for Soundarapandian Bone And Joint Hospital & Research Institute: 4.0, Open 24x7: true
+Read more info button for Soundarapandian Bone And Joint Hospital & Research Institute is visible: true
+Name of hospital: Soundarapandian Bone And Joint Hospital & Research Institute
+Clicked on hospital: Robin Hospitals
+Rating for Robin Hospitals: 0, Open 24x7: true
+Read more info button for Robin Hospitals is visible: true
+it is not contain
+Clicked on hospital: Apollo Fertility
+Rating for Apollo Fertility: 4.0, Open 24x7: false
+Read more info button for Apollo Fertility is visible: true
+it is not contain
+Clicked on hospital: Be Well Hospitals
+Rating for Be Well Hospitals: 0, Open 24x7: true
+Read more info button for Be Well Hospitals is visible: true
+it is not contain
+Clicked on hospital: GEM Hospital & Research Center
+Rating for GEM Hospital & Research Center: 0, Open 24x7: false
+Read more info button for GEM Hospital & Research Center is visible: true
+it is not contain
+Clicked on hospital: Parampara Fertility & Gynaec Centre
+Rating for Parampara Fertility & Gynaec Centre: 5.0, Open 24x7: false
+Read more info button for Parampara Fertility & Gynaec Centre is visible: false
+it is not contain
+Clicked on hospital: Hande Hospital - Laser Piles Centre
+Rating for Hande Hospital - Laser Piles Centre: 4.0, Open 24x7: true
+Read more info button for Hande Hospital - Laser Piles Centre is visible: true
+Name of hospital: Hande Hospital - Laser Piles Centre
+Clicked on hospital: New Hope Medical Centre
+Rating for New Hope Medical Centre: 5.0, Open 24x7: true
+Read more info button for New Hope Medical Centre is visible: true
+Name of hospital: New Hope Medical Centre
+Clicked on hospital: SIMS Hospital
+Rating for SIMS Hospital: 4.5, Open 24x7: true
+Read more info button for SIMS Hospital is visible: true
+Name of hospital: SIMS Hospital
+Clicked on hospital: Apollo First Med Hospitals
+Rating for Apollo First Med Hospitals: 3.5, Open 24x7: false
+Read more info button for Apollo First Med Hospitals is visible: true
+it is not contain

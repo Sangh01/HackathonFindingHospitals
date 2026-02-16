@@ -1,0 +1,877 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e5]:
+      - link [ref=e6] [cursor=pointer]:
+        - /url: /
+      - generic [ref=e8] [cursor=pointer]:
+        - generic [ref=e9]: Help
+        - img "image" [ref=e12]
+    - generic [ref=e13]:
+      - generic [ref=e15]:
+        - generic [ref=e16]:
+          - heading "Book Lab Tests Online" [level=1] [ref=e17]
+          - generic [ref=e21] [cursor=pointer]: Cart
+        - generic [ref=e22]:
+          - generic [ref=e24]:
+            - textbox "Select any city or locality" [ref=e29] [cursor=pointer]: Bangalore
+            - generic [ref=e30]: "|"
+            - textbox "Search for tests, packages & profiles" [ref=e33]
+          - generic [ref=e37]:
+            - link "Call" [ref=e39] [cursor=pointer]:
+              - /url: tel:+918045684087
+              - img "Call" [ref=e41]
+            - link "WhatsApp" [ref=e42] [cursor=pointer]:
+              - /url: "#"
+              - img "WhatsApp" [ref=e44]
+      - generic [ref=e45]:
+        - generic [ref=e47]:
+          - generic [ref=e48]:
+            - heading "Top Booked Diagnostic Tests" [level=2] [ref=e49]
+            - generic [ref=e50]:
+              - img [ref=e51]
+              - generic [ref=e53]: Get reports within 24hrs
+          - generic [ref=e57]:
+            - generic [ref=e60] [cursor=pointer]:
+              - link "Thyroid Profile ₹500 Known as Thyroid Profile Total Blood" [ref=e61]:
+                - /url: /tests/thyroid-profile-total-blood/p?city=bangalore
+                - generic [ref=e62]:
+                  - generic [ref=e63]: Thyroid Profile
+                  - generic [ref=e64]: ₹500
+                - generic [ref=e65]: Known as Thyroid Profile Total Blood
+              - generic [ref=e68]: ADD TO CART
+            - generic [ref=e71] [cursor=pointer]:
+              - link "Complete Blood Count ₹300 Known as Complete Blood Count Automated Blood" [ref=e72]:
+                - /url: /tests/complete-blood-count-automated-blood/p?city=bangalore
+                - generic [ref=e73]:
+                  - generic [ref=e74]: Complete Blood Count
+                  - generic [ref=e75]: ₹300
+                - generic [ref=e76]: Known as Complete Blood Count Automated Blood
+              - generic [ref=e79]: ADD TO CART
+            - generic [ref=e82] [cursor=pointer]:
+              - link "Lipid Profile ₹434 Known as Lipid Profile Blood" [ref=e83]:
+                - /url: /tests/lipid-profile-blood/p?city=bangalore
+                - generic [ref=e84]:
+                  - generic [ref=e85]: Lipid Profile
+                  - generic [ref=e86]: ₹434
+                - generic [ref=e87]: Known as Lipid Profile Blood
+              - generic [ref=e90]: ADD TO CART
+            - generic [ref=e93] [cursor=pointer]:
+              - link "Liver Function Test ₹673 Known as Liver Function Tests Blood" [ref=e94]:
+                - /url: /tests/liver-function-tests-blood/p?city=bangalore
+                - generic [ref=e95]:
+                  - generic [ref=e96]: Liver Function Test
+                  - generic [ref=e97]: ₹673
+                - generic [ref=e98]: Known as Liver Function Tests Blood
+              - generic [ref=e101]: ADD TO CART
+            - generic [ref=e104] [cursor=pointer]:
+              - link "HbA1c ₹300 Known as Glycosylated Haemoglobin Blood" [ref=e105]:
+                - /url: /tests/glycosylated-haemoglobin-blood/p?city=bangalore
+                - generic [ref=e106]:
+                  - generic [ref=e107]: HbA1c
+                  - generic [ref=e108]: ₹300
+                - generic [ref=e109]: Known as Glycosylated Haemoglobin Blood
+              - generic [ref=e112]: ADD TO CART
+            - generic [ref=e115] [cursor=pointer]:
+              - link "Vitamin B 12 ₹490 Known as Vitamin B12 Conventional Blood" [ref=e116]:
+                - /url: /tests/vitamin-b12-conventional-blood/p?city=bangalore
+                - generic [ref=e117]:
+                  - generic [ref=e118]: Vitamin B 12
+                  - generic [ref=e119]: ₹490
+                - generic [ref=e120]: Known as Vitamin B12 Conventional Blood
+              - generic [ref=e123]: ADD TO CART
+            - generic [ref=e126] [cursor=pointer]:
+              - link [ref=e127]:
+                - /url: /tests/beta-hcg-automated-blood/p?city=bangalore
+                - generic [ref=e128]:
+                  - generic [ref=e129]: Beta HCG
+                  - generic [ref=e130]: ₹850
+                - generic [ref=e131]: Known as Beta Hcg Automated Blood
+              - generic [ref=e134]: ADD TO CART
+            - generic [ref=e137] [cursor=pointer]:
+              - link [ref=e138]:
+                - /url: /tests/glucose-fasting-blood/p?city=bangalore
+                - generic [ref=e139]:
+                  - generic [ref=e140]: Fasting Blood Sugar
+                  - generic [ref=e141]: ₹199
+                - generic [ref=e142]: Known as Glucose Fasting Blood
+              - generic [ref=e145]: ADD TO CART
+            - generic [ref=e148] [cursor=pointer]:
+              - link [ref=e149]:
+                - /url: /tests/vitamin-d-profile-blood/p?city=bangalore
+                - generic [ref=e150]:
+                  - generic [ref=e151]: Vitamin D Profile
+                  - generic [ref=e152]: ₹1000
+                - generic [ref=e153]: Known as Vitamin D Profile Blood
+              - generic [ref=e156]: ADD TO CART
+        - generic [ref=e160]:
+          - heading "Popular Health Checkup Packages" [level=2] [ref=e161]
+          - generic [ref=e162]:
+            - generic [ref=e164] [cursor=pointer]: Featured Checkups
+            - generic [ref=e166] [cursor=pointer]: Women's Health
+            - generic [ref=e168] [cursor=pointer]: Men's Health
+          - generic [ref=e173]:
+            - generic [ref=e177]:
+              - link "25% OFF image Includes 5 tests Vitamin Deficiency Health Checkup For Age:11-80yrs" [ref=e178] [cursor=pointer]:
+                - /url: /health-checkup-packages/vitamin-deficiency-health-checkup/p?tag_id=6&city=bangalore
+                - generic [ref=e179]:
+                  - generic [ref=e180]: 25% OFF
+                  - img "image" [ref=e183]
+                  - generic [ref=e185]: Includes 5 tests
+                - generic [ref=e186]:
+                  - heading "Vitamin Deficiency Health Checkup" [level=3] [ref=e187]
+                  - paragraph [ref=e188]: For Age:11-80yrs
+              - contentinfo [ref=e189]:
+                - generic [ref=e190]:
+                  - generic [ref=e191]: ₹899
+                  - generic [ref=e192]: ₹1200
+                - link "Book Now" [ref=e193] [cursor=pointer]:
+                  - /url: /labs/bangalore/practo-master-lab-arekere/user-details?package_id=2647&tag_id=6&city=bangalore
+                  - generic [ref=e194]: Book Now
+            - generic [ref=e198]:
+              - link "24% OFF image Includes 96 tests Young Indian Health Checkup - Advanced For Age:30-50yrs" [ref=e199] [cursor=pointer]:
+                - /url: /health-checkup-packages/young-indian-health-checkup-advanced/p?tag_id=6&city=bangalore
+                - generic [ref=e200]:
+                  - generic [ref=e201]: 24% OFF
+                  - img "image" [ref=e204]
+                  - generic [ref=e206]: Includes 96 tests
+                - generic [ref=e207]:
+                  - heading "Young Indian Health Checkup - Advanced" [level=3] [ref=e208]
+                  - paragraph [ref=e209]: For Age:30-50yrs
+              - contentinfo [ref=e210]:
+                - generic [ref=e211]:
+                  - generic [ref=e212]: ₹2599
+                  - generic [ref=e213]: ₹3400
+                - link "Book Now" [ref=e214] [cursor=pointer]:
+                  - /url: /labs/bangalore/practo-master-lab-arekere/user-details?package_id=2705&tag_id=6&city=bangalore
+                  - generic [ref=e215]: Book Now
+            - generic [ref=e219]:
+              - link "22% OFF image Includes 106 tests Comprehensive Full Body Check For Age:18-100yrs" [ref=e220] [cursor=pointer]:
+                - /url: /health-checkup-packages/comprehensive-full-body-check/p?tag_id=6&city=bangalore
+                - generic [ref=e221]:
+                  - generic [ref=e222]: 22% OFF
+                  - img "image" [ref=e225]
+                  - generic [ref=e227]: Includes 106 tests
+                - generic [ref=e228]:
+                  - heading "Comprehensive Full Body Check" [level=3] [ref=e229]
+                  - paragraph [ref=e230]: For Age:18-100yrs
+              - contentinfo [ref=e231]:
+                - generic [ref=e232]:
+                  - generic [ref=e233]: ₹3499
+                  - generic [ref=e234]: ₹4500
+                - link "Book Now" [ref=e235] [cursor=pointer]:
+                  - /url: /labs/bangalore/practo-master-lab-arekere/user-details?package_id=2718&tag_id=6&city=bangalore
+                  - generic [ref=e236]: Book Now
+            - generic [ref=e240]:
+              - link [ref=e241] [cursor=pointer]:
+                - /url: /health-checkup-packages/annual-health-check-platinum/p?tag_id=6&city=bangalore
+                - generic [ref=e242]:
+                  - generic [ref=e243]: 20% OFF
+                  - img [ref=e246]
+                  - generic [ref=e248]: Includes 112 tests
+                - generic [ref=e249]:
+                  - heading [level=3] [ref=e250]: Annual Health Check - Platinum
+                  - paragraph [ref=e251]: For Age:18-100yrs
+              - contentinfo [ref=e252]:
+                - generic [ref=e253]:
+                  - generic [ref=e254]: ₹4999
+                  - generic [ref=e255]: ₹6249
+                - link [ref=e256] [cursor=pointer]:
+                  - /url: /labs/bangalore/practo-master-lab-arekere/user-details?package_id=2719&tag_id=6&city=bangalore
+                  - generic [ref=e257]: Book Now
+            - generic [ref=e261]:
+              - link [ref=e262] [cursor=pointer]:
+                - /url: /health-checkup-packages/tax-saver-basic/p?tag_id=6&city=bangalore
+                - generic [ref=e263]:
+                  - generic [ref=e264]: 20% OFF
+                  - img [ref=e267]
+                  - generic [ref=e269]: Includes 104 tests
+                - generic [ref=e270]:
+                  - heading [level=3] [ref=e271]: Tax Saver Package (Basic) - Full body checkup with Cardiac risk markers
+                  - paragraph [ref=e272]: For Age:18-100yrs
+              - contentinfo [ref=e273]:
+                - generic [ref=e274]:
+                  - generic [ref=e275]: ₹3499
+                  - generic [ref=e276]: ₹4374
+                - link [ref=e277] [cursor=pointer]:
+                  - /url: /labs/bangalore/practo-master-lab-arekere/user-details?package_id=2915&tag_id=6&city=bangalore
+                  - generic [ref=e278]: Book Now
+            - generic [ref=e282]:
+              - link [ref=e283] [cursor=pointer]:
+                - /url: /health-checkup-packages/tax-saver-advanced/p?tag_id=6&city=bangalore
+                - generic [ref=e284]:
+                  - generic [ref=e285]: 20% OFF
+                  - generic [ref=e288]: Includes 110 tests
+                - generic [ref=e289]:
+                  - heading [level=3] [ref=e290]: Tax Saver Package (Advanced) - Full body checkup with Cardiac risk markers & Vit B12
+                  - paragraph [ref=e291]: For Age:18-100yrs
+              - contentinfo [ref=e292]:
+                - generic [ref=e293]:
+                  - generic [ref=e294]: ₹4999
+                  - generic [ref=e295]: ₹6249
+                - link [ref=e296] [cursor=pointer]:
+                  - /url: /labs/bangalore/practo-master-lab-arekere/user-details?package_id=2916&tag_id=6&city=bangalore
+                  - generic [ref=e297]: Book Now
+            - generic [ref=e301]:
+              - link [ref=e302] [cursor=pointer]:
+                - /url: /health-checkup-packages/full-body-checkup/p?tag_id=6&city=bangalore
+                - generic [ref=e303]:
+                  - generic [ref=e304]: 20% OFF
+                  - generic [ref=e307]: Includes 56 tests
+                - generic [ref=e308]:
+                  - heading [level=3] [ref=e309]: Full Body Checkup
+                  - paragraph [ref=e310]: For Age:18-60yrs
+              - contentinfo [ref=e311]:
+                - generic [ref=e312]:
+                  - generic [ref=e313]: ₹1599
+                  - generic [ref=e314]: ₹1999
+                - link [ref=e315] [cursor=pointer]:
+                  - /url: /labs/bangalore/practo-master-lab-arekere/user-details?package_id=3041&tag_id=6&city=bangalore
+                  - generic [ref=e316]: Book Now
+            - generic [ref=e320]:
+              - link [ref=e321] [cursor=pointer]:
+                - /url: /health-checkup-packages/jaanch-diabetic-profile-basic/p?tag_id=6&city=bangalore
+                - generic [ref=e322]:
+                  - generic [ref=e323]: 8% OFF
+                  - generic [ref=e326]: Includes 60 tests
+                - generic [ref=e327]:
+                  - heading [level=3] [ref=e328]: Jaanch - Diabetic Profile Basic
+                  - paragraph [ref=e329]: For Age:18-80yrs
+              - contentinfo [ref=e330]:
+                - generic [ref=e331]:
+                  - generic [ref=e332]: ₹2199
+                  - generic [ref=e333]: ₹2399
+                - link [ref=e334] [cursor=pointer]:
+                  - /url: /labs/bangalore/practo-master-lab-arekere/user-details?package_id=6240&tag_id=6&city=bangalore
+                  - generic [ref=e335]: Book Now
+            - generic [ref=e339]:
+              - link [ref=e340] [cursor=pointer]:
+                - /url: /health-checkup-packages/jaanch-diabetic-profile-advanced/p?tag_id=6&city=bangalore
+                - generic [ref=e341]:
+                  - generic [ref=e342]: 11% OFF
+                  - generic [ref=e345]: Includes 97 tests
+                - generic [ref=e346]:
+                  - heading [level=3] [ref=e347]: Jaanch - Diabetic Profile Advanced
+                  - paragraph [ref=e348]: For Age:18-80yrs
+              - contentinfo [ref=e349]:
+                - generic [ref=e350]:
+                  - generic [ref=e351]: ₹4949
+                  - generic [ref=e352]: ₹5548
+                - link [ref=e353] [cursor=pointer]:
+                  - /url: /labs/bangalore/practo-master-lab-arekere/user-details?package_id=6241&tag_id=6&city=bangalore
+                  - generic [ref=e354]: Book Now
+            - generic [ref=e358]:
+              - link [ref=e359] [cursor=pointer]:
+                - /url: /health-checkup-packages/jaanch-healthy-heart-basic/p?tag_id=6&city=bangalore
+                - generic [ref=e360]:
+                  - generic [ref=e361]: 20% OFF
+                  - generic [ref=e364]: Includes 46 tests
+                - generic [ref=e365]:
+                  - heading [level=3] [ref=e366]: Jaanch - Healthy Heart Basic
+                  - paragraph [ref=e367]: For Age:18-80yrs
+              - contentinfo [ref=e368]:
+                - generic [ref=e369]:
+                  - generic [ref=e370]: ₹2000
+                  - generic [ref=e371]: ₹2499
+                - link [ref=e372] [cursor=pointer]:
+                  - /url: /labs/bangalore/practo-master-lab-arekere/user-details?package_id=6242&tag_id=6&city=bangalore
+                  - generic [ref=e373]: Book Now
+            - generic [ref=e377]:
+              - link [ref=e378] [cursor=pointer]:
+                - /url: /health-checkup-packages/jaanch-healthy-heart-advanced/p?tag_id=6&city=bangalore
+                - generic [ref=e379]:
+                  - generic [ref=e380]: 20% OFF
+                  - generic [ref=e383]: Includes 48 tests
+                - generic [ref=e384]:
+                  - heading [level=3] [ref=e385]: Jaanch - Healthy Heart Advanced
+                  - paragraph [ref=e386]: For Age:18-80yrs
+              - contentinfo [ref=e387]:
+                - generic [ref=e388]:
+                  - generic [ref=e389]: ₹3000
+                  - generic [ref=e390]: ₹3749
+                - link [ref=e391] [cursor=pointer]:
+                  - /url: /labs/bangalore/practo-master-lab-arekere/user-details?package_id=6243&tag_id=6&city=bangalore
+                  - generic [ref=e392]: Book Now
+            - generic [ref=e396]:
+              - link [ref=e397] [cursor=pointer]:
+                - /url: /health-checkup-packages/jaanch-cardiac-risk-markers/p?tag_id=6&city=bangalore
+                - generic [ref=e398]:
+                  - generic [ref=e399]: 14% OFF
+                  - generic [ref=e402]: Includes 5 tests
+                - generic [ref=e403]:
+                  - heading [level=3] [ref=e404]: Jaanch - Cardiac Risk Markers
+                  - paragraph [ref=e405]: For Age:18-80yrs
+              - contentinfo [ref=e406]:
+                - generic [ref=e407]:
+                  - generic [ref=e408]: ₹1200
+                  - generic [ref=e409]: ₹1399
+                - link [ref=e410] [cursor=pointer]:
+                  - /url: /labs/bangalore/practo-master-lab-arekere/user-details?package_id=6244&tag_id=6&city=bangalore
+                  - generic [ref=e411]: Book Now
+            - generic [ref=e415]:
+              - link [ref=e416] [cursor=pointer]:
+                - /url: /health-checkup-packages/jaanch-cardiac-risk-markers-advanced/p?tag_id=6&city=bangalore
+                - generic [ref=e417]:
+                  - generic [ref=e418]: 60% OFF
+                  - generic [ref=e421]: Includes 6 tests
+                - generic [ref=e422]:
+                  - heading [level=3] [ref=e423]: Jaanch - Cardiac Risk Markers Advanced
+                  - paragraph [ref=e424]: For Age:18-80yrs
+              - contentinfo [ref=e425]:
+                - generic [ref=e426]:
+                  - generic [ref=e427]: ₹1600
+                  - generic [ref=e428]: ₹4000
+                - link [ref=e429] [cursor=pointer]:
+                  - /url: /labs/bangalore/practo-master-lab-arekere/user-details?package_id=6245&tag_id=6&city=bangalore
+                  - generic [ref=e430]: Book Now
+            - generic [ref=e434]:
+              - link [ref=e435] [cursor=pointer]:
+                - /url: /health-checkup-packages/jaanch-thyroid-profile-basic/p?tag_id=6&city=bangalore
+                - generic [ref=e436]:
+                  - generic [ref=e437]: 13% OFF
+                  - generic [ref=e440]: Includes 12 tests
+                - generic [ref=e441]:
+                  - heading [level=3] [ref=e442]: Jaanch - Thyroid Profile Basic
+                  - paragraph [ref=e443]: For Age:18-80yrs
+              - contentinfo [ref=e444]:
+                - generic [ref=e445]:
+                  - generic [ref=e446]: ₹999
+                  - generic [ref=e447]: ₹1149
+                - link [ref=e448] [cursor=pointer]:
+                  - /url: /labs/bangalore/practo-master-lab-arekere/user-details?package_id=6246&tag_id=6&city=bangalore
+                  - generic [ref=e449]: Book Now
+            - generic [ref=e453]:
+              - link [ref=e454] [cursor=pointer]:
+                - /url: /health-checkup-packages/jaanch-thyroid-profile-advanced/p?tag_id=6&city=bangalore
+                - generic [ref=e455]:
+                  - generic [ref=e456]: 32% OFF
+                  - generic [ref=e459]: Includes 15 tests
+                - generic [ref=e460]:
+                  - heading [level=3] [ref=e461]: Jaanch - Thyroid Profile Advanced
+                  - paragraph [ref=e462]: For Age:18-80yrs
+              - contentinfo [ref=e463]:
+                - generic [ref=e464]:
+                  - generic [ref=e465]: ₹2799
+                  - generic [ref=e466]: ₹4099
+                - link [ref=e467] [cursor=pointer]:
+                  - /url: /labs/bangalore/practo-master-lab-arekere/user-details?package_id=6247&tag_id=6&city=bangalore
+                  - generic [ref=e468]: Book Now
+            - generic [ref=e472]:
+              - link [ref=e473] [cursor=pointer]:
+                - /url: /health-checkup-packages/jaanch-womens-hairfall-screening-advanced/p?tag_id=6&city=bangalore
+                - generic [ref=e474]:
+                  - generic [ref=e475]: 17% OFF
+                  - generic [ref=e478]: Includes 41 tests
+                - generic [ref=e479]:
+                  - heading [level=3] [ref=e480]: Jaanch - Womens Hairfall Screening Advanced
+                  - paragraph [ref=e481]: For Age:18-80yrs
+              - contentinfo [ref=e482]:
+                - generic [ref=e483]:
+                  - generic [ref=e484]: ₹2749
+                  - generic [ref=e485]: ₹3299
+                - link [ref=e486] [cursor=pointer]:
+                  - /url: /labs/bangalore/practo-master-lab-arekere/user-details?package_id=6248&tag_id=6&city=bangalore
+                  - generic [ref=e487]: Book Now
+        - generic [ref=e491]:
+          - generic [ref=e492]: How it works?
+          - generic [ref=e493]:
+            - generic [ref=e494]:
+              - img "image" [ref=e498]
+              - generic [ref=e499]: Book tests & packages
+            - generic [ref=e500]:
+              - img "image" [ref=e504]
+              - generic [ref=e505]: Home sample collection
+            - generic [ref=e506]:
+              - img "image" [ref=e510]
+              - generic [ref=e511]: Reports in practo app
+        - generic [ref=e512]:
+          - heading "Find Tests by Health Concern" [level=2] [ref=e513]
+          - generic [ref=e517]:
+            - link "Fever" [ref=e520] [cursor=pointer]:
+              - /url: /health-checkup-packages/fever-checkup
+              - generic [ref=e521]: Fever
+            - link "Diabetes" [ref=e524] [cursor=pointer]:
+              - /url: /health-checkup-packages/diabetes-checkup
+              - generic [ref=e525]: Diabetes
+            - link "Skin" [ref=e528] [cursor=pointer]:
+              - /url: /health-checkup-packages/skin-care-checkups
+              - generic [ref=e529]: Skin
+            - link "Kidney" [ref=e532] [cursor=pointer]:
+              - /url: /health-checkup-packages/kidney-urine-checkups
+              - generic [ref=e533]: Kidney
+            - link "Digestion" [ref=e536] [cursor=pointer]:
+              - /url: /health-checkup-packages/stomach-digestion-checkups
+              - generic [ref=e537]: Digestion
+            - link "Cancer" [ref=e540] [cursor=pointer]:
+              - /url: /health-checkup-packages/cancer-screening-health-checkup
+              - generic [ref=e541]: Cancer
+            - link [ref=e544] [cursor=pointer]:
+              - /url: /health-checkup-packages/bone-joints-checkups
+              - generic [ref=e545]: Bone
+            - link [ref=e548] [cursor=pointer]:
+              - /url: /health-checkup-packages/sexual-wellness-checkups
+              - generic [ref=e549]: Sexual Wellness
+        - generic [ref=e552]:
+          - heading "Recommended Vital Checkups" [level=2] [ref=e553]
+          - generic [ref=e557]:
+            - generic [ref=e561]:
+              - generic [ref=e562]:
+                - img "Lipid Profile" [ref=e563]
+                - heading "Lipid Profile" [level=3] [ref=e564]:
+                  - link "Lipid Profile" [ref=e565] [cursor=pointer]:
+                    - /url: /tests/lipid-profile-blood/p?city=bangalore
+              - generic [ref=e566]: LDL Cholesterol, HDL Cholesterol +3Tests
+              - link "Book" [ref=e568] [cursor=pointer]:
+                - /url: /tests/lipid-profile-blood/p?city=bangalore#addItem
+            - generic [ref=e572]:
+              - generic [ref=e573]:
+                - img "Liver Profile" [ref=e574]
+                - heading "Liver Profile" [level=3] [ref=e575]:
+                  - link "Liver Profile" [ref=e576] [cursor=pointer]:
+                    - /url: /tests/liver-function-tests-blood/p?city=bangalore
+              - generic [ref=e577]: Gamma Glutamyl Transferase, Total Bilirubin +3Tests
+              - link "Book" [ref=e579] [cursor=pointer]:
+                - /url: /tests/liver-function-tests-blood/p?city=bangalore#addItem
+            - generic [ref=e583]:
+              - generic [ref=e584]:
+                - img "Blood Sugar" [ref=e585]
+                - heading "Blood Sugar" [level=3] [ref=e586]:
+                  - link "Blood Sugar" [ref=e587] [cursor=pointer]:
+                    - /url: /tests/glycosylated-haemoglobin-blood/p?city=bangalore
+              - generic [ref=e588]: Hba1C, Fasting Blood Sugar +3Tests
+              - link "Book" [ref=e590] [cursor=pointer]:
+                - /url: /tests/glycosylated-haemoglobin-blood/p?city=bangalore#addItem
+            - generic [ref=e594]:
+              - generic [ref=e595]:
+                - img [ref=e596]
+                - heading [level=3] [ref=e597]:
+                  - link [ref=e598] [cursor=pointer]:
+                    - /url: /tests/thyroid-profile-total-blood/p?city=bangalore
+                    - text: Thyroid Profile
+              - generic [ref=e599]: TSH, T3 +3Tests
+              - link [ref=e601] [cursor=pointer]:
+                - /url: /tests/thyroid-profile-total-blood/p?city=bangalore#addItem
+                - text: Book
+            - generic [ref=e605]:
+              - generic [ref=e606]:
+                - img [ref=e607]
+                - heading [level=3] [ref=e608]:
+                  - link [ref=e609] [cursor=pointer]:
+                    - /url: /tests/beta-hcg-automated-blood/p?city=bangalore
+                    - text: Pregnancy Test
+              - generic [ref=e610]: Afp, Glucose Tolerance +3Tests
+              - link [ref=e612] [cursor=pointer]:
+                - /url: /tests/beta-hcg-automated-blood/p?city=bangalore#addItem
+                - text: Book
+        - generic [ref=e616]:
+          - generic [ref=e617]: Why Book With Us?
+          - generic [ref=e618]:
+            - generic [ref=e621]:
+              - generic [ref=e622]: FREE home
+              - generic [ref=e623]: sample collection
+            - generic [ref=e626]:
+              - generic [ref=e627]: E reports
+              - generic [ref=e628]: in 24 hrs
+            - generic [ref=e631]:
+              - generic [ref=e632]: Offers &
+              - generic [ref=e633]: affordable prices
+        - generic [ref=e635]:
+          - generic [ref=e636]: We do great
+          - generic [ref=e637]:
+            - generic [ref=e639]: 15 Million users every month
+            - generic [ref=e641]: Trusted by 2,00,000 healthcare professionals
+            - generic [ref=e643]: We serve in 9 cities
+        - generic [ref=e644]:
+          - heading "Thousands of Happy Customers" [level=2] [ref=e645]
+          - generic [ref=e647]:
+            - generic [ref=e649]:
+              - generic [ref=e652]:
+                - generic [ref=e653]: “Good service, Practo is avoiding to stand in que for health checkup.
+                - generic [ref=e656]: Lalita Hegde
+              - generic [ref=e659]:
+                - generic [ref=e660]: “Very professional phlebo. Excellent job in collecting the sample. No pain at all. Got my report also within 24 hours.
+                - generic [ref=e663]: Malathi Ganapathy
+              - generic [ref=e666]:
+                - generic [ref=e667]: “Everything went very well and smoothly. Technician was right on time. Really happy with the service.
+                - generic [ref=e670]: Ashish Garnaik
+              - generic [ref=e673]:
+                - generic [ref=e674]: “Good service, Practo is avoiding to stand in que for health checkup.
+                - generic [ref=e677]: Lalita Hegde
+              - generic [ref=e680]:
+                - generic [ref=e681]: “Very professional phlebo. Excellent job in collecting the sample. No pain at all. Got my report also within 24 hours.
+                - generic [ref=e684]: Malathi Ganapathy
+              - generic [ref=e687]:
+                - generic [ref=e688]: “Everything went very well and smoothly. Technician was right on time. Really happy with the service.
+                - generic [ref=e691]: Ashish Garnaik
+              - generic [ref=e694]:
+                - generic [ref=e695]: “Good service, Practo is avoiding to stand in que for health checkup.
+                - generic [ref=e698]: Lalita Hegde
+            - list [ref=e699]:
+              - listitem [ref=e700] [cursor=pointer]:
+                - button "1" [ref=e701]
+              - listitem [ref=e702] [cursor=pointer]:
+                - button "2" [ref=e703]
+              - listitem [ref=e704] [cursor=pointer]:
+                - button "3" [ref=e705]
+      - generic [ref=e711]:
+        - generic [ref=e712]: Download the Practo app
+        - generic [ref=e713]: Your home for health is one tap away.
+        - generic [ref=e714]: Book appointments, Order health products, Consult with a doctor online, Book health checkups, store health records & read health tips.
+        - generic [ref=e715]:
+          - generic [ref=e716]: Send the link to download the app
+          - generic [ref=e717]:
+            - generic [ref=e718]:
+              - text: "+91"
+              - textbox "Enter phone number" [ref=e719]
+            - generic [ref=e720] [cursor=pointer]: Send app link
+        - generic [ref=e721]:
+          - link:
+            - /url: https://app.appsflyer.com/id953772015?pid=web&c=homepage
+      - generic [ref=e724]:
+        - paragraph [ref=e725]:
+          - text: Book
+          - strong [ref=e726]: Diagnostic tests
+          - text: near you with Practo Associate Labs, your online lab test service provider for diagnostic, medical tests and health checkup packages
+        - paragraph [ref=e727]:
+          - text: Get all the benefits of
+          - strong [ref=e728]: diagnostic centre
+          - text: and
+          - strong [ref=e729]: pathology labs
+          - text: right from the comfort of your home. With a phlebotomy team to ensure speedy home sample collection, and diagnostic services ranging from individual tests to complete health checkup packages for Men, Women, Senior Citizens & Corporates. Practo Associate Labs takes care of all your diagnostic needs.
+        - paragraph [ref=e730]:
+          - strong [ref=e731]: "Wide Selection of Tests:"
+          - text: Practo Associate Labs covers a wide array of tests like
+          - strong [ref=e732]: blood sugar tests, thyroid tests, pregnancy tests, allergy tests
+          - text: ", lipid profile, liver profile, platelet count, VDRL test, vitamin B12 deficiency test and more. Get details of all these tests such as blood test cost, when to take the tests, why it is required, who should take the test and what to do before taking the blood tests at home."
+        - paragraph [ref=e733]:
+          - strong [ref=e734]: "Sample Collection at Home:"
+          - text: Book blood tests online from your home and our expert team of Practo Associate Labs technicians will arrive at the pre-scheduled time to pick up your sample. Once you get a
+          - strong [ref=e735]: diagnostic test
+          - text: done, you will receive your reports online.
+        - paragraph [ref=e736]:
+          - strong [ref=e737]: "Digital Reports:"
+          - text: Get all your diagnostic reports emailed directly to you with detailed
+          - strong [ref=e738]: blood test
+          - text: reports & secure storage to easily access your medical records online.
+        - paragraph [ref=e739]:
+          - strong [ref=e740]: "Full Body Health Checkup:"
+          - text: Keep your health and well being in check with exclusive Health Checkup Packages like Men’s Health Package, Women’s Health Package, Vitamin Package, Health Package for Corporates, Diabetes Packages, Packages for Senior Citizens & more. Get full details of all tests available in a package when booking
+          - strong [ref=e741]: online pathology tests.
+        - paragraph [ref=e742]:
+          - strong [ref=e743]: "Practo Associate Labs provides services to the following cities:"
+          - text: Bangalore, Hyderabad, Chennai, Mumbai, Delhi, Pune, Kolkata, Navi Mumbai, Thane, Gurgaon, Noida, Ahmedabad, Chandigarh, Ghaziabad, Indore, Jaipur, Lucknow, Patna, Ernakulam, Bhubaneswar and Coimbatore.
+      - generic [ref=e744]:
+        - text: This site is protected by reCAPTCHA and the Google
+        - link "Privacy Policy" [ref=e745] [cursor=pointer]:
+          - /url: https://policies.google.com/privacy
+        - text: and
+        - link "Terms of Service" [ref=e746] [cursor=pointer]:
+          - /url: https://policies.google.com/terms
+        - text: apply.
+      - contentinfo [ref=e747]:
+        - generic [ref=e748]:
+          - list [ref=e749]:
+            - listitem [ref=e750]:
+              - heading "Practo" [level=6] [ref=e751]
+            - listitem [ref=e752]:
+              - link "About" [ref=e753] [cursor=pointer]:
+                - /url: https://www.practo.com/company/about
+            - listitem [ref=e754]:
+              - link "Blog" [ref=e755] [cursor=pointer]:
+                - /url: https://blog.practo.com/
+            - listitem [ref=e756]:
+              - link "Careers" [ref=e757] [cursor=pointer]:
+                - /url: https://www.practo.com/company/careers
+            - listitem [ref=e758]:
+              - link "Press" [ref=e759] [cursor=pointer]:
+                - /url: https://www.practo.com/company/press
+            - listitem [ref=e760]:
+              - link "Contact" [ref=e761] [cursor=pointer]:
+                - /url: https://www.practo.com/company/contact
+          - list [ref=e762]:
+            - listitem [ref=e763]:
+              - heading "For patients" [level=6] [ref=e764]
+            - listitem [ref=e765]:
+              - link "Ask free health questions" [ref=e766] [cursor=pointer]:
+                - /url: /consult/new_question?source=Footer-AskFreeQuestion
+            - listitem [ref=e767]:
+              - link "Search for doctors" [ref=e768] [cursor=pointer]:
+                - /url: /bangalore/doctors
+            - listitem [ref=e769]:
+              - link "Search for clinics" [ref=e770] [cursor=pointer]:
+                - /url: /bangalore/clinics
+            - listitem [ref=e771]:
+              - link "Search for hospitals" [ref=e772] [cursor=pointer]:
+                - /url: /bangalore/hospitals
+            - listitem [ref=e773]:
+              - link "Book Diagnostic Tests" [ref=e774] [cursor=pointer]:
+                - /url: /tests
+            - listitem [ref=e775]:
+              - link "Read health articles" [ref=e776] [cursor=pointer]:
+                - /url: /healthfeed
+            - listitem [ref=e777]:
+              - link "Read about medicines" [ref=e778] [cursor=pointer]:
+                - /url: /medicine-info
+            - listitem [ref=e779]:
+              - link "Consult a doctor" [ref=e780] [cursor=pointer]:
+                - /url: /consult?source=Footer-ConsultFeed
+            - listitem [ref=e781]:
+              - link "Order medicines" [ref=e782] [cursor=pointer]:
+                - /url: /order
+            - listitem [ref=e783]:
+              - link "Practo Drive" [ref=e784] [cursor=pointer]:
+                - /url: /drive
+            - listitem [ref=e785]:
+              - link "Health app" [ref=e786] [cursor=pointer]:
+                - /url: /health-app
+            - listitem [ref=e787]:
+              - link "Book Full Body Checkups" [ref=e788] [cursor=pointer]:
+                - /url: /health-checkup-packages/master
+            - listitem [ref=e789]:
+              - link "Practo Plus" [ref=e790] [cursor=pointer]:
+                - /url: /plus?utm_source=dx&utm_medium=web
+          - list [ref=e791]:
+            - listitem [ref=e792]:
+              - heading "For doctors" [level=6] [ref=e793]
+            - listitem [ref=e794]:
+              - link "Practo Consult" [ref=e795] [cursor=pointer]:
+                - /url: /for-doctors/consult
+            - listitem [ref=e796]:
+              - link "Practo Health Feed" [ref=e797] [cursor=pointer]:
+                - /url: /for-doctors/health-feed
+            - listitem [ref=e798]:
+              - link "Practo Profile" [ref=e799] [cursor=pointer]:
+                - /url: /for-doctors/profile
+            - listitem [ref=e800]:
+              - heading "For clinics" [level=6] [ref=e801]
+            - listitem [ref=e802]:
+              - link "Ray by Practo" [ref=e803] [cursor=pointer]:
+                - /url: /providers/clinics/ray
+            - listitem [ref=e804]:
+              - link "Practo Reach" [ref=e805] [cursor=pointer]:
+                - /url: /providers/clinics/reach
+            - listitem [ref=e806]:
+              - link "Ray Tab" [ref=e807] [cursor=pointer]:
+                - /url: /providers/clinics/ray#raytab
+            - listitem [ref=e808]:
+              - link "Practo Pro" [ref=e809] [cursor=pointer]:
+                - /url: /practo-pro-app
+          - list [ref=e810]:
+            - listitem [ref=e811]:
+              - heading "For hospitals" [level=6] [ref=e812]
+            - listitem [ref=e813]:
+              - link "Insta by Practo" [ref=e814] [cursor=pointer]:
+                - /url: /providers/hospitals/insta
+            - listitem [ref=e815]:
+              - link "Qikwell by Practo" [ref=e816] [cursor=pointer]:
+                - /url: /providers/hospitals/qikwell
+            - listitem [ref=e817]:
+              - link "Practo Profile" [ref=e818] [cursor=pointer]:
+                - /url: /providers/hospitals/profile
+            - listitem [ref=e819]:
+              - link "Practo Reach" [ref=e820] [cursor=pointer]:
+                - /url: /providers/hospitals/reach
+          - list [ref=e821]:
+            - listitem [ref=e822]:
+              - heading "More" [level=6] [ref=e823]
+            - listitem [ref=e824]:
+              - link "Help" [ref=e825] [cursor=pointer]:
+                - /url: https://help.practo.com/
+            - listitem [ref=e826]:
+              - link "Developers" [ref=e827] [cursor=pointer]:
+                - /url: https://developers.practo.com/
+            - listitem [ref=e828]:
+              - link "Privacy Policy" [ref=e829] [cursor=pointer]:
+                - /url: /company/privacy
+            - listitem [ref=e830]:
+              - link "Terms & Conditions" [ref=e831] [cursor=pointer]:
+                - /url: /company/terms
+            - listitem [ref=e832]:
+              - link "Subscribers" [ref=e833] [cursor=pointer]:
+                - /url: /company/subscribers
+            - listitem [ref=e834]:
+              - link "Healthcare directory" [ref=e835] [cursor=pointer]:
+                - /url: /sitemap
+            - listitem [ref=e836]:
+              - link "Practo Health Wiki" [ref=e837] [cursor=pointer]:
+                - /url: /health-wiki
+          - list [ref=e838]:
+            - listitem [ref=e839]:
+              - heading "Social" [level=6] [ref=e840]
+            - listitem [ref=e841]:
+              - link "Facebook" [ref=e842] [cursor=pointer]:
+                - /url: https://facebook.com/practo
+            - listitem [ref=e843]:
+              - link "Twitter" [ref=e844] [cursor=pointer]:
+                - /url: https://twitter.com/Practo
+            - listitem [ref=e845]:
+              - link "LinkedIn" [ref=e846] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/practo-technologies-pvt-ltd
+            - listitem [ref=e847]:
+              - link "Youtube" [ref=e848] [cursor=pointer]:
+                - /url: https://youtube.com/user/PractoSupport
+            - listitem [ref=e849]:
+              - link "Github" [ref=e850] [cursor=pointer]:
+                - /url: https://github.com/practo
+        - img "Practo" [ref=e852]
+        - generic [ref=e853]: Copyright © 2017, Practo. All rights reserved.
+  - dialog "citySelector" [active] [ref=e855]:
+    - generic [ref=e860]:
+      - generic [ref=e861]: Select a city
+      - textbox "Search for city" [ref=e864]
+      - generic [ref=e865]:
+        - generic [ref=e866]: TOP CITIES
+        - list [ref=e867] [cursor=pointer]:
+          - listitem [ref=e868]:
+            - img "image" [ref=e870]
+            - generic [ref=e871]: Bangalore
+          - listitem [ref=e872]:
+            - img "image" [ref=e874]
+            - generic [ref=e875]: Delhi
+          - listitem [ref=e876]:
+            - img "image" [ref=e878]
+            - generic [ref=e879]: Mumbai
+          - listitem [ref=e880]:
+            - img "image" [ref=e882]
+            - generic [ref=e883]: Chennai
+          - listitem [ref=e884]:
+            - img "image" [ref=e886]
+            - generic [ref=e887]: Hyderabad
+          - listitem [ref=e888]:
+            - img "image" [ref=e890]
+            - generic [ref=e891]: Kolkata
+          - listitem [ref=e892]:
+            - img "image" [ref=e894]
+            - generic [ref=e895]: Pune
+          - listitem [ref=e896]:
+            - img "image" [ref=e898]
+            - generic [ref=e899]: Ahmedabad
+      - generic [ref=e900]:
+        - generic [ref=e901]: ALL CITIES
+        - generic [ref=e902] [cursor=pointer]: Agartala
+        - generic [ref=e903] [cursor=pointer]: Agra
+        - generic [ref=e904] [cursor=pointer]: Ahmedabad
+        - generic [ref=e905] [cursor=pointer]: Ajmer
+        - generic [ref=e906] [cursor=pointer]: Aligarh
+        - generic [ref=e907] [cursor=pointer]: Allahabad
+        - generic [ref=e908] [cursor=pointer]: Alwar
+        - generic [ref=e909] [cursor=pointer]: Ambala
+        - generic [ref=e910] [cursor=pointer]: Amravati
+        - generic [ref=e911] [cursor=pointer]: Amritsar
+        - generic [ref=e912] [cursor=pointer]: Amroha
+        - generic [ref=e913] [cursor=pointer]: Aurangabad
+        - generic [ref=e914] [cursor=pointer]: Azamgarh
+        - generic [ref=e915] [cursor=pointer]: Bangalore
+        - generic [ref=e916] [cursor=pointer]: Bardhaman
+        - generic [ref=e917] [cursor=pointer]: Bareilly
+        - generic [ref=e918] [cursor=pointer]: Begusarai
+        - generic [ref=e919] [cursor=pointer]: Belgaum
+        - generic [ref=e920] [cursor=pointer]: Bharuch
+        - generic [ref=e921] [cursor=pointer]: Bhiwani
+        - generic [ref=e922] [cursor=pointer]: Bhopal
+        - generic [ref=e923] [cursor=pointer]: Bhubaneswar
+        - generic [ref=e924] [cursor=pointer]: Bijnor
+        - generic [ref=e925] [cursor=pointer]: Bikaner
+        - generic [ref=e926] [cursor=pointer]: Bilaspur
+        - generic [ref=e927] [cursor=pointer]: Chandigarh
+        - generic [ref=e928] [cursor=pointer]: Chennai
+        - generic [ref=e929] [cursor=pointer]: Coimbatore
+        - generic [ref=e930] [cursor=pointer]: Cuttack
+        - generic [ref=e931] [cursor=pointer]: Darbhanga
+        - generic [ref=e932] [cursor=pointer]: Dehradun
+        - generic [ref=e933] [cursor=pointer]: Delhi
+        - generic [ref=e934] [cursor=pointer]: Deoria
+        - generic [ref=e935] [cursor=pointer]: Dhanbad
+        - generic [ref=e936] [cursor=pointer]: Dibrugarh
+        - generic [ref=e937] [cursor=pointer]: Durgapur
+        - generic [ref=e938] [cursor=pointer]: Ernakulam
+        - generic [ref=e939] [cursor=pointer]: Faizabad
+        - generic [ref=e940] [cursor=pointer]: Gandhinagar
+        - generic [ref=e941] [cursor=pointer]: Gaya
+        - generic [ref=e942] [cursor=pointer]: Gorakhpur
+        - generic [ref=e943] [cursor=pointer]: Guntur
+        - generic [ref=e944] [cursor=pointer]: Gurugram
+        - generic [ref=e945] [cursor=pointer]: Guwahati
+        - generic [ref=e946] [cursor=pointer]: Gwalior
+        - generic [ref=e947] [cursor=pointer]: Haridwar
+        - generic [ref=e948] [cursor=pointer]: Hisar
+        - generic [ref=e949] [cursor=pointer]: Hooghly
+        - generic [ref=e950] [cursor=pointer]: Hoshiarpur
+        - generic [ref=e951] [cursor=pointer]: Howrah
+        - generic [ref=e952] [cursor=pointer]: Hyderabad
+        - generic [ref=e953] [cursor=pointer]: Indore
+        - generic [ref=e954] [cursor=pointer]: Jabalpur
+        - generic [ref=e955] [cursor=pointer]: Jaipur
+        - generic [ref=e956] [cursor=pointer]: Jalandhar
+        - generic [ref=e957] [cursor=pointer]: Jammu
+        - generic [ref=e958] [cursor=pointer]: Jamshedpur
+        - generic [ref=e959] [cursor=pointer]: Jhajjar
+        - generic [ref=e960] [cursor=pointer]: Jodhpur
+        - generic [ref=e961] [cursor=pointer]: Kaithal
+        - generic [ref=e962] [cursor=pointer]: Kanpur
+        - generic [ref=e963] [cursor=pointer]: Karimnagar
+        - generic [ref=e964] [cursor=pointer]: Karnal
+        - generic [ref=e965] [cursor=pointer]: Kohlapur
+        - generic [ref=e966] [cursor=pointer]: Kolkata
+        - generic [ref=e967] [cursor=pointer]: Kota
+        - generic [ref=e968] [cursor=pointer]: Krishna
+        - generic [ref=e969] [cursor=pointer]: Kurnool
+        - generic [ref=e970] [cursor=pointer]: Lucknow
+        - generic [ref=e971] [cursor=pointer]: Ludhiana
+        - generic [ref=e972] [cursor=pointer]: Madurai
+        - generic [ref=e973] [cursor=pointer]: Mathura
+        - generic [ref=e974] [cursor=pointer]: Medak
+        - generic [ref=e975] [cursor=pointer]: Meerut
+        - generic [ref=e976] [cursor=pointer]: Mohali
+        - generic [ref=e977] [cursor=pointer]: Moradabad
+        - generic [ref=e978] [cursor=pointer]: Mumbai
+        - generic [ref=e979] [cursor=pointer]: Muzaffarnagar
+        - generic [ref=e980] [cursor=pointer]: Muzaffarpur
+        - generic [ref=e981] [cursor=pointer]: Mysore
+        - generic [ref=e982] [cursor=pointer]: Nagpur
+        - generic [ref=e983] [cursor=pointer]: Nashik
+        - generic [ref=e984] [cursor=pointer]: Navi Mumbai
+        - generic [ref=e985] [cursor=pointer]: Nellore
+        - generic [ref=e986] [cursor=pointer]: Nizamabad
+        - generic [ref=e987] [cursor=pointer]: Noida
+        - generic [ref=e988] [cursor=pointer]: North Goa
+        - generic [ref=e989] [cursor=pointer]: Panchkula
+        - generic [ref=e990] [cursor=pointer]: Panipat
+        - generic [ref=e991] [cursor=pointer]: Pathankot
+        - generic [ref=e992] [cursor=pointer]: Patiala
+        - generic [ref=e993] [cursor=pointer]: Patna
+        - generic [ref=e994] [cursor=pointer]: Pondicherry
+        - generic [ref=e995] [cursor=pointer]: Pune
+        - generic [ref=e996] [cursor=pointer]: Purnia
+        - generic [ref=e997] [cursor=pointer]: Raigarh
+        - generic [ref=e998] [cursor=pointer]: Raipur
+        - generic [ref=e999] [cursor=pointer]: Rajkot
+        - generic [ref=e1000] [cursor=pointer]: Rampur
+        - generic [ref=e1001] [cursor=pointer]: Ranchi
+        - generic [ref=e1002] [cursor=pointer]: Rangareddy
+        - generic [ref=e1003] [cursor=pointer]: Rewa
+        - generic [ref=e1004] [cursor=pointer]: Rohtak
+        - generic [ref=e1005] [cursor=pointer]: Sagar
+        - generic [ref=e1006] [cursor=pointer]: Saharanpur
+        - generic [ref=e1007] [cursor=pointer]: Saidpur Ghazipur District
+        - generic [ref=e1008] [cursor=pointer]: Salem
+        - generic [ref=e1009] [cursor=pointer]: Sirsa
+        - generic [ref=e1010] [cursor=pointer]: Solapur
+        - generic [ref=e1011] [cursor=pointer]: Sonipat
+        - generic [ref=e1012] [cursor=pointer]: South Goa
+        - generic [ref=e1013] [cursor=pointer]: Surat
+        - generic [ref=e1014] [cursor=pointer]: Thane
+        - generic [ref=e1015] [cursor=pointer]: Tiruchirapalli
+        - generic [ref=e1016] [cursor=pointer]: Udaipur
+        - generic [ref=e1017] [cursor=pointer]: Unnao
+        - generic [ref=e1018] [cursor=pointer]: Vadodara
+        - generic [ref=e1019] [cursor=pointer]: Varanasi
+        - generic [ref=e1020] [cursor=pointer]: Vellore
+        - generic [ref=e1021] [cursor=pointer]: Vijayawada
+        - generic [ref=e1022] [cursor=pointer]: Warangal
+        - generic [ref=e1023] [cursor=pointer]: Yamuna Nagar
+        - generic [ref=e1024] [cursor=pointer]: Yamunanagar
+  - text: 
+```

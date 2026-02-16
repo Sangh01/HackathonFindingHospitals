@@ -1,0 +1,348 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e4]:
+  - generic [ref=e14]:
+    - generic [ref=e16] [cursor=pointer]:
+      - link "Instant Video Consultation" [ref=e17]:
+        - /url: /consult
+      - generic [ref=e18]:
+        - link:
+          - /url: /consult
+      - generic [ref=e19]:
+        - generic [ref=e20]: Instant Video Consultation
+        - generic [ref=e21]: Connect within 60 secs
+    - generic [ref=e23] [cursor=pointer]:
+      - link "Find Doctors Near You" [ref=e24]:
+        - /url: /doctors
+      - generic [ref=e25]:
+        - link:
+          - /url: /doctors
+      - generic [ref=e26]:
+        - generic [ref=e27]: Find Doctors Near You
+        - generic [ref=e28]: Confirmed appointments
+    - generic [ref=e30] [cursor=pointer]:
+      - link "Lab Tests" [ref=e31]:
+        - /url: /tests
+      - generic [ref=e32]:
+        - link:
+          - /url: /tests
+      - generic [ref=e33]:
+        - generic [ref=e34]: Lab Tests
+        - generic [ref=e35]: Safe and trusted lab tests
+    - generic [ref=e37] [cursor=pointer]:
+      - link "Surgeries" [ref=e38]:
+        - /url: /care
+      - generic [ref=e39]:
+        - link:
+          - /url: /care
+      - generic [ref=e40]:
+        - generic [ref=e41]: Surgeries
+        - generic [ref=e42]: Safe and trusted surgery centers
+  - generic [ref=e46]:
+    - heading "Consult top doctors online for any health concern" [level=2] [ref=e47]
+    - generic [ref=e48]: Private online consultations with verified doctors in all specialists
+    - button "View All Specialities" [ref=e49] [cursor=pointer]
+    - generic [ref=e50]:
+      - generic [ref=e52]:
+        - link "Period doubts or Pregnancy, Consult Now" [ref=e53] [cursor=pointer]:
+          - /url: /consult/direct/new_consultation?id=16
+        - generic [ref=e54]:
+          - link:
+            - /url: /consult/direct/new_consultation?id=16
+        - generic [ref=e55]: Period doubts or Pregnancy
+        - generic [ref=e56]: CONSULT NOW
+      - generic [ref=e58]:
+        - link "Acne, pimple or skin issues, Consult Now" [ref=e59] [cursor=pointer]:
+          - /url: /consult/direct/new_consultation?id=5
+        - generic [ref=e60]:
+          - link:
+            - /url: /consult/direct/new_consultation?id=5
+        - generic [ref=e61]: Acne, pimple or skin issues
+        - generic [ref=e62]: CONSULT NOW
+      - generic [ref=e64]:
+        - link "Performance issues in bed, Consult Now" [ref=e65] [cursor=pointer]:
+          - /url: /consult/direct/new_consultation?id=14
+        - generic [ref=e66]:
+          - link:
+            - /url: /consult/direct/new_consultation?id=14
+        - generic [ref=e67]: Performance issues in bed
+        - generic [ref=e68]: CONSULT NOW
+      - generic [ref=e70]:
+        - link "Cold, cough or fever, Consult Now" [ref=e71] [cursor=pointer]:
+          - /url: /consult/direct/new_consultation?id=22
+        - generic [ref=e72]:
+          - link:
+            - /url: /consult/direct/new_consultation?id=22
+        - generic [ref=e73]: Cold, cough or fever
+        - generic [ref=e74]: CONSULT NOW
+      - generic [ref=e76]:
+        - link "Child not feeling well, Consult Now" [ref=e77] [cursor=pointer]:
+          - /url: /consult/direct/new_consultation?id=17
+        - generic [ref=e78]:
+          - link:
+            - /url: /consult/direct/new_consultation?id=17
+        - generic [ref=e79]: Child not feeling well
+        - generic [ref=e80]: CONSULT NOW
+      - generic [ref=e82]:
+        - link "Depression or anxiety, Consult Now" [ref=e83] [cursor=pointer]:
+          - /url: /consult/direct/new_consultation?id=2
+        - generic [ref=e84]:
+          - link:
+            - /url: /consult/direct/new_consultation?id=2
+        - generic [ref=e85]: Depression or anxiety
+        - generic [ref=e86]: CONSULT NOW
+  - generic [ref=e89]:
+    - generic [ref=e90]:
+      - generic [ref=e91]:
+        - heading "Book an appointment for an in-clinic consultation" [level=2] [ref=e92]
+        - generic [ref=e93]: Find experienced doctors across all specialties
+      - generic:
+        - generic:
+          - link:
+            - /url: ""
+    - generic [ref=e96]:
+      - button "Previous" [ref=e97] [cursor=pointer]
+      - generic [ref=e99]:
+        - generic [ref=e103]:
+          - link [ref=e104] [cursor=pointer]:
+            - /url: /chennai/dentist
+          - generic [ref=e105]:
+            - link:
+              - /url: /chennai/dentist
+          - heading "Dentist" [level=6] [ref=e107]
+          - generic [ref=e108]: Teething troubles? Schedule a dental checkup
+        - generic [ref=e112]:
+          - link [ref=e113] [cursor=pointer]:
+            - /url: /chennai/gynecologist-obstetrician
+          - heading [level=6] [ref=e116]: Gynecologist/Obstetrician
+          - generic [ref=e117]: Explore for women’s health, pregnancy and infertility treatments
+        - generic [ref=e121]:
+          - link [ref=e122] [cursor=pointer]:
+            - /url: /chennai/dietitian-nutritionist
+          - heading [level=6] [ref=e125]: Dietitian/Nutrition
+          - generic [ref=e126]: Get guidance on eating right, weight management and sports nutrition
+        - generic [ref=e130]:
+          - link [ref=e131] [cursor=pointer]:
+            - /url: /chennai/physiotherapist
+          - heading [level=6] [ref=e134]: Physiotherapist
+          - generic [ref=e135]: Pulled a muscle? Get it treated by a trained physiotherapist
+        - generic [ref=e139]:
+          - link [ref=e140] [cursor=pointer]:
+            - /url: /chennai/general-surgeon
+          - heading [level=6] [ref=e143]: General surgeon
+          - generic [ref=e144]: Need to get operated? Find the right surgeon
+        - generic [ref=e148]:
+          - link [ref=e149] [cursor=pointer]:
+            - /url: /chennai/orthopedist
+          - heading [level=6] [ref=e152]: Orthopedist
+          - generic [ref=e153]: For Bone and Joints issues, spinal injuries and more
+        - generic [ref=e157]:
+          - link [ref=e158] [cursor=pointer]:
+            - /url: /chennai/general-physician
+          - heading [level=6] [ref=e161]: General physician
+          - generic [ref=e162]: Find the right family doctor in your neighborhood
+        - generic [ref=e166]:
+          - link [ref=e167] [cursor=pointer]:
+            - /url: /chennai/pediatrician
+          - heading [level=6] [ref=e170]: Pediatrician
+          - generic [ref=e171]: Child Specialists and Doctors for Infant
+        - generic [ref=e175]:
+          - link [ref=e176] [cursor=pointer]:
+            - /url: /chennai/gastroenterologist
+          - heading [level=6] [ref=e179]: Gastroenterologist
+          - generic [ref=e180]: Explore for issues related to digestive system, liver and pancreas
+      - generic [ref=e185] [cursor=pointer]: 
+  - generic [ref=e190]:
+    - generic [ref=e192]:
+      - heading "Read top articles from health experts" [level=3] [ref=e193]
+      - generic [ref=e194]: Health articles that keep you informed about good health practices and achieve your goals.
+      - button "See all articles" [ref=e195] [cursor=pointer]
+    - generic [ref=e197]:
+      - link [ref=e198] [cursor=pointer]:
+        - /url: /healthfeed/12-coronavirus-myths-and-facts-that-you-should-be-aware-of-40556/post
+      - generic [ref=e199]:
+        - link:
+          - /url: /healthfeed/12-coronavirus-myths-and-facts-that-you-should-be-aware-of-40556/post
+      - generic [ref=e200]: Coronavirus
+      - heading "12 Coronavirus Myths and Facts That You Should Be Aware Of" [level=6] [ref=e202]
+      - generic [ref=e203]: Dr. Diana Borgio
+    - generic [ref=e205]:
+      - link [ref=e206] [cursor=pointer]:
+        - /url: /healthfeed/eating-right-to-build-immunity-against-cold-and-viral-infections-40908/post
+      - generic [ref=e207]:
+        - link:
+          - /url: /healthfeed/eating-right-to-build-immunity-against-cold-and-viral-infections-40908/post
+      - generic [ref=e208]: Vitamins and Supplements
+      - heading "Eating Right to Build Immunity Against Cold and Viral Infections" [level=6] [ref=e210]
+      - generic [ref=e211]: Dr. Diana Borgio
+  - generic [ref=e214]:
+    - heading "What our users have to say" [level=3] [ref=e215]
+    - generic [ref=e217]:
+      - generic [ref=e223]:
+        - generic [ref=e226]:
+          - generic [ref=e227]: Very good app. Well thought out about booking/rescheduling/canceling an appointment. Also, Doctor's feedback mechanism is good and describes all the basics in a good way
+          - generic [ref=e228]:
+            - generic [ref=e229]: 
+            - generic [ref=e231]: Avinash Kumar
+        - generic [ref=e234]:
+          - generic [ref=e235]: Very helpful. Far easier than doing same things on computer. Allows quick and easy search with speedy booking. Even maintains history of doctors visited.
+          - generic [ref=e236]:
+            - generic [ref=e237]: 
+            - generic [ref=e239]: Amit Sharma
+        - generic [ref=e242]:
+          - generic [ref=e243]: Very easy to book,maintain history. Hassle free from older versions of booking appointment via telephone.. Thanks Practo for making it simple.
+          - generic [ref=e244]:
+            - generic [ref=e245]: 
+            - generic [ref=e247]: Jyothi Bhatia
+        - generic [ref=e250]:
+          - generic [ref=e251]: Very good app. Well thought out about booking/rescheduling/canceling an appointment. Also, Doctor's feedback mechanism is good and describes all the basics in a good way
+          - generic [ref=e252]:
+            - generic [ref=e253]: 
+            - generic [ref=e255]: Avinash Kumar
+        - generic [ref=e258]:
+          - generic [ref=e259]: Very helpful. Far easier than doing same things on computer. Allows quick and easy search with speedy booking. Even maintains history of doctors visited.
+          - generic [ref=e260]:
+            - generic [ref=e261]: 
+            - generic [ref=e263]: Amit Sharma
+        - generic [ref=e266]:
+          - generic [ref=e267]: Very easy to book,maintain history. Hassle free from older versions of booking appointment via telephone.. Thanks Practo for making it simple.
+          - generic [ref=e268]:
+            - generic [ref=e269]: 
+            - generic [ref=e271]: Jyothi Bhatia
+        - generic [ref=e274]:
+          - generic [ref=e275]: Very good app. Well thought out about booking/rescheduling/canceling an appointment. Also, Doctor's feedback mechanism is good and describes all the basics in a good way
+          - generic [ref=e276]:
+            - generic [ref=e277]: 
+            - generic [ref=e279]: Avinash Kumar
+      - generic [ref=e285]:
+        - listitem:
+          - button "• 1" [ref=e286] [cursor=pointer]
+        - listitem:
+          - button "• 2" [ref=e287] [cursor=pointer]
+        - listitem:
+          - button "• 3" [ref=e288] [cursor=pointer]
+  - generic [ref=e294]:
+    - generic [ref=e295]:
+      - heading "Download the Practo app" [level=3] [ref=e296]
+      - generic [ref=e297]: Access video consultation with India’s top doctors on the Practo app. Connect with doctors online, available 24/7, from the comfort of your home.
+    - generic [ref=e298]: Get the link to download the app
+    - generic [ref=e299]:
+      - generic [ref=e301]:
+        - generic [ref=e302]: "+91"
+        - textbox "Enter phone number" [ref=e303]
+      - button "Send SMS" [ref=e304] [cursor=pointer]
+    - generic:
+      - link:
+        - /url: https://app.appsflyer.com/com.practo.fabric?pid=web&c=homepage
+      - link:
+        - /url: https://app.appsflyer.com/id953772015?pid=web&c=homepage
+  - contentinfo [ref=e305]:
+    - generic [ref=e306]:
+      - generic [ref=e307]:
+        - generic [ref=e308]:
+          - generic [ref=e309]: Practo
+          - generic [ref=e310]:
+            - link "About" [ref=e311] [cursor=pointer]:
+              - /url: /company/about
+            - link "Blog" [ref=e312] [cursor=pointer]:
+              - /url: //blog.practo.com
+            - link "Careers" [ref=e313] [cursor=pointer]:
+              - /url: /company/careers
+            - link "Press" [ref=e314] [cursor=pointer]:
+              - /url: /company/press
+            - link "Contact Us" [ref=e315] [cursor=pointer]:
+              - /url: /company/contact
+        - generic [ref=e316]:
+          - generic [ref=e317]: For patients
+          - generic [ref=e318]:
+            - link "Search for doctors" [ref=e319] [cursor=pointer]:
+              - /url: /chennai/doctors
+            - link "Search for clinics" [ref=e320] [cursor=pointer]:
+              - /url: /chennai/clinics
+            - link "Search for hospitals" [ref=e321] [cursor=pointer]:
+              - /url: /chennai/hospitals
+            - link "Book Diagnostic Tests" [ref=e322] [cursor=pointer]:
+              - /url: /tests
+            - link "Book Full Body Checkups" [ref=e323] [cursor=pointer]:
+              - /url: /health-checkup-packages/master
+            - link "Practo Plus" [ref=e324] [cursor=pointer]:
+              - /url: /plus
+            - link "Covid Hospital listing" [ref=e325] [cursor=pointer]:
+              - /url: /india/covid-hospital-listing
+            - link "Practo Care Clinics" [ref=e326] [cursor=pointer]:
+              - /url: https://www.practocareclinics.com/
+            - link "Read health articles" [ref=e327] [cursor=pointer]:
+              - /url: /healthfeed
+            - link "Read about medicines" [ref=e328] [cursor=pointer]:
+              - /url: /medicine-info
+            - link "Practo drive" [ref=e329] [cursor=pointer]:
+              - /url: /drive
+            - link "Health app" [ref=e330] [cursor=pointer]:
+              - /url: /health-app
+        - generic [ref=e331]:
+          - generic [ref=e332]:
+            - generic [ref=e333]: For doctors
+            - link "Practo Profile" [ref=e335] [cursor=pointer]:
+              - /url: /providers/doctors/profile
+          - generic [ref=e336]:
+            - generic [ref=e337]: For clinics
+            - generic [ref=e338]:
+              - link "Ray by Practo" [ref=e339] [cursor=pointer]:
+                - /url: /providers/clinics/ray
+              - link "Practo Reach" [ref=e340] [cursor=pointer]:
+                - /url: /providers/clinics/reach
+              - link "Ray Tab" [ref=e341] [cursor=pointer]:
+                - /url: /providers/clinics/ray/features#rayTab
+              - link "Practo Pro" [ref=e342] [cursor=pointer]:
+                - /url: /practo-pro-app
+        - generic [ref=e343]:
+          - generic [ref=e344]:
+            - generic [ref=e345]: For hospitals
+            - generic [ref=e346]:
+              - link "Insta by Practo" [ref=e347] [cursor=pointer]:
+                - /url: /providers/hospitals/insta
+              - link "Qikwell by Practo" [ref=e348] [cursor=pointer]:
+                - /url: /providers/hospitals/qikwell
+              - link "Practo Profile" [ref=e349] [cursor=pointer]:
+                - /url: /providers/hospitals/profile
+              - link "Practo Reach" [ref=e350] [cursor=pointer]:
+                - /url: /providers/hospitals/reach
+              - link "Practo Drive" [ref=e351] [cursor=pointer]:
+                - /url: https://drive.practo.com
+          - generic [ref=e352]:
+            - generic [ref=e353]: For Corporates
+            - link "Wellness Plans" [ref=e355] [cursor=pointer]:
+              - /url: /plus/corporate
+        - generic [ref=e356]:
+          - generic [ref=e357]: More
+          - generic [ref=e358]:
+            - link "Help" [ref=e359] [cursor=pointer]:
+              - /url: https://help.practo.com
+            - link "Developers" [ref=e360] [cursor=pointer]:
+              - /url: https://developers.practo.com
+            - link "Privacy Policy" [ref=e361] [cursor=pointer]:
+              - /url: /company/privacy
+            - link "Terms & Conditions" [ref=e362] [cursor=pointer]:
+              - /url: /company/terms
+            - link "PCS T&C" [ref=e363] [cursor=pointer]:
+              - /url: https://www.practostatic.com/pcs-assets/PCS_T_Cs.pdf
+            - link "Healthcare Directory" [ref=e364] [cursor=pointer]:
+              - /url: /sitemap
+            - link "Practo Health Wiki" [ref=e365] [cursor=pointer]:
+              - /url: /health-wiki/
+        - generic [ref=e366]:
+          - generic [ref=e367]: Social
+          - generic [ref=e368]:
+            - link "Facebook" [ref=e369] [cursor=pointer]:
+              - /url: //www.facebook.com/practo
+            - link "Twitter" [ref=e370] [cursor=pointer]:
+              - /url: //twitter.com/Practo
+            - link "LinkedIn" [ref=e371] [cursor=pointer]:
+              - /url: //www.linkedin.com/company/practo-technologies-pvt-ltd
+            - link "Youtube" [ref=e372] [cursor=pointer]:
+              - /url: //www.youtube.com/user/PractoSupport
+            - link "Github" [ref=e373] [cursor=pointer]:
+              - /url: //github.com/practo
+      - generic [ref=e375]: Copyright © 2017, Practo. All rights reserved.
+```
