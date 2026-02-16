@@ -1,0 +1,30 @@
+[
+    {
+        "testCase": "Login with valid credentials",
+        "username": "env.LOGIN_USERNAME",
+        "password": "env.LOGIN_PASSWORD",
+        "Locator": "span.user_info_top",
+        "expectedResult": "Yash Chourasiya"
+    },
+    {
+        "testCase": "Login with valid phone number, invalid password",
+        "username": "env.LOGIN_USERNAME",
+        "password": "Yash@1234",
+        "Locator": "span#passwordErrorBlock",
+        "expectedResult": "Incorrect password"
+    },
+    {
+        "testCase": "Login with invalid phone number, valid password",
+        "username": "987842783418",
+        "password": "env.LOGIN_PASSWORD",
+        "Locator": "span#usernameErrorBlock",
+        "expectedResult": "Email/Mobile is not valid"
+    },
+    {
+        "testCase": "Login with invalid phone number, invalid password",
+        "username": "987842703418",
+        "password": "Yash@1234",
+        "Locator": "span#usernameErrorBlock",
+        "expectedResult": "Email/Mobile is not valid"
+    }
+]
